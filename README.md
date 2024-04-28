@@ -1,4 +1,6 @@
 Otomatik Envanter Yönetim Sistemi
+
+
 Bu program, envanter yönetim süreçlerini otomatikleştirmek için geliştirilmiş bir sistemdir. Program, envanterdeki eşyaların teslim alınma tarihini otomatik olarak kaydeder ve kullanıcıların sadece teslim eden kişiyi ve aksesuarları girmesi gerekmektedir.
 
 Kullanım
