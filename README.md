@@ -7,6 +7,7 @@ Kullanım
 Programı çalıştırdığınızda, terminal üzerinden yönergeleri takip ederek envanteri yönetebilirsiniz. Program kullanıcı dostu arayüzüyle kolay bir kullanım sunar.
 
 Programı çalıştırdıktan sonra, aşağıdaki adımları takip edin:
+
 Verilen aksesuarları girin.
 Teslim eden kişinin adını girin (IT personelinin ismi).
 Teslim alan kişinin adını girin (işe yeni başlayanın ismi).
